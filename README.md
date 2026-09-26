@@ -9,7 +9,7 @@
     <!-- Left Column: Tech Stack -->
     <td valign="top" width="60%">
       <h3>Tech Stack</h3>
-      <p><b>Languages:</b></p>
+      <p><b>Languages & Frameworks:</b></p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
