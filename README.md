@@ -7,7 +7,7 @@
 <table>
   <tr>
     <!-- Left Column: Tech Stack -->
-    <td valign="top" width="50%">
+    <td valign="top" width="60%">
       <h3>Tech Stack</h3>
       <p><b>Languages:</b></p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
@@ -26,7 +26,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40"/>
     </td>
     <!-- Right Column: GitHub Stats -->
-    <td valign="top" width="50%" align="center">
+    <td valign="top" width="40%" align="center">
       <h3>GitHub Stats</h3>
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nikamsakshi428&layout=compact&theme=radical" alt="Top Languages" />
     </td>
