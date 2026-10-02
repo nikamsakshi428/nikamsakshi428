@@ -4,6 +4,12 @@
 
 🚀 **Full Stack Java Developer | CS Graduate**
 
+### 🎓 Education & Certifications
+* 🧑‍💻 **Currently Pursuing:** Master of Computer Applications (MCA) — *1st Semester*
+* 🏆 **Certified:** Intensive Full Stack Java Developer Course
+* ☁️ **Certified:** IBM Cloud Fundamentals
+
+
 <br>
 <table border="0">
   <tr>
@@ -16,6 +22,8 @@
   </tr>
 </table>
 
+
+### 🚀 About Me
 🎓 **Recently Completed:** Intensive Full Stack Java Developer Certification.<br>
 💡 **Focus:** Building scalable web applications using **Java**, **Spring Boot**, and **React**.<br>
 🔭 **Currently:** Developing portfolio projects and sharpening my problem-solving skills in **Data Structures & Algorithms**.<br>
