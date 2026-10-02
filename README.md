@@ -38,7 +38,7 @@
   <tr>
     <!-- Left Column: Tech Stack -->
     <td valign="top" width="100%">
-      <h3>Tech Stack</h3>
+      <h1>🛠️ Tech Stack</h1>
       <p><b>Languages & Frameworks:</b></p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
