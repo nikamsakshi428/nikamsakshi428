@@ -2,10 +2,10 @@
 <p align="center">
 <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fnikamsakshi428&label=View+Counter&icon=heart-half&color=%23198754&message=&style=for-the-badge&tz=UTC&fork=true"></p><br>
 
-🚀 **Full Stack Java Developer | CS Graduate**
+### 🚀 Full Stack Java Developer | BCS Graduate | MCA Student
 
 ### 🎓 Education & Certifications
-* 🧑‍💻 **Currently Pursuing:** Master of Computer Applications (MCA) — *1st Semester*
+* 🧑‍💻 **Currently Pursuing:** Master of Computer Applications (MCA) 
 * 🏆 **Certified:** Intensive Full Stack Java Developer Course
 * ☁️ **Certified:** IBM Cloud Fundamentals
 
@@ -30,7 +30,9 @@
 🌱 **Learning:** Expanding my knowledge in **Cloud Computing** and **Spring Microservices**.<br>
 💬 **Open to:** Entry-level software engineering roles or internship opportunities where I can contribute and grow.<br>
 
-
+### 📊 My Coding Journey & Stats
+* 🎯 **Daily Goal:** Solving at least 1-2 problems on LeetCode / HackerRank.
+* ⚡ **Fun Fact:** I enjoy breaking down complex algorithms into simple, visual block diagrams.
 
 <table>
   <tr>
