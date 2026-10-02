@@ -1,3 +1,6 @@
+ Hi there, I'm [Your Name] <img src="https://githubusercontent.com" alt="Waving Hand" width="35" height="35" />
+
+
 <h1 align="center">## Hi there 👋 I'm Sakshii..</h1>
 <p align="center">
 <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fnikamsakshi428&label=View+Counter&icon=heart-half&color=%23198754&message=&style=for-the-badge&tz=UTC"></p><br>
