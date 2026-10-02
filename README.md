@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Sakshii..</h1>
 <p align="center">
-<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fnikamsakshi428&label=View+Counter&icon=heart-half&color=%23198754&message=&style=for-the-badge&tz=UTC"></p><br>
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fnikamsakshi428&label=View+Counter&icon=heart-half&color=%23198754&message=&style=for-the-badge&tz=UTC&fork=true"></p><br>
 
 🚀 **Full Stack Java Developer | CS Graduate**
 
@@ -47,4 +47,4 @@
 
 
 📊 **GitHub Stats**  
-![Sakshu's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=radical&fork=true)<br>
+![Sakshu's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=radical)<br>
