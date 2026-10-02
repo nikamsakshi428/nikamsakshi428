@@ -42,9 +42,11 @@
 🌱 **Learning:** Expanding my knowledge in **Cloud Computing** and **Spring Microservices**.<br>
 💬 **Open to:** Entry-level software engineering roles or internship opportunities where I can contribute and grow.<br>
 
+📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://vercel.app" alt="Sakshu's GitHub Stats" height="195" />
-  <img src="https://demolab.com" alt="Sakshu's Streak Stats" height="195" />
+![Sakshu's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=radical)
+![](https://streak-stats.demolab.com/?user=nikamsakshi428&theme=dark&hide_border=false)
+
 </p>
 
 
@@ -53,5 +55,5 @@
 
 
 📊 **GitHub Stats**  
-![Sakshu's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=radical)<br>
-![](https://streak-stats.demolab.com/?user=nikamsakshi428&theme=dark&hide_border=false)<br>
+![Sakshu's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=radical)
+![](https://streak-stats.demolab.com/?user=nikamsakshi428&theme=dark&hide_border=false)
