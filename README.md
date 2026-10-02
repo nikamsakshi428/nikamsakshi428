@@ -4,6 +4,25 @@
 
 🚀 **Full Stack Java Developer | CS Graduate**
 
+<br>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=radical" alt="Sakshus GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=nikamsakshi428&theme=dark&hide_border=false" alt="Sakshu's GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+🎓 **Recently Completed:** Intensive Full Stack Java Developer Certification.<br>
+💡 **Focus:** Building scalable web applications using **Java**, **Spring Boot**, and **React**.<br>
+🔭 **Currently:** Developing portfolio projects and sharpening my problem-solving skills in **Data Structures & Algorithms**.<br>
+🌱 **Learning:** Expanding my knowledge in **Cloud Computing** and **Spring Microservices**.<br>
+💬 **Open to:** Entry-level software engineering roles or internship opportunities where I can contribute and grow.<br>
+
+
 <table>
   <tr>
     <!-- Left Column: Tech Stack -->
@@ -34,26 +53,6 @@
     </td>
   </tr>
 </table>
-
-
-🎓 **Recently Completed:** Intensive Full Stack Java Developer Certification.<br>
-💡 **Focus:** Building scalable web applications using **Java**, **Spring Boot**, and **React**.<br>
-🔭 **Currently:** Developing portfolio projects and sharpening my problem-solving skills in **Data Structures & Algorithms**.<br>
-🌱 **Learning:** Expanding my knowledge in **Cloud Computing** and **Spring Microservices**.<br>
-💬 **Open to:** Entry-level software engineering roles or internship opportunities where I can contribute and grow.<br>
-
-<br>
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=radical" alt="Sakshus GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=nikamsakshi428&theme=dark&hide_border=false" alt="Sakshu's GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
 <!--📊 **GitHub Stats**  
 ![Sakshu's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=radical)
 ![](https://streak-stats.demolab.com/?user=nikamsakshi428&theme=dark&hide_border=false)
