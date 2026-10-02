@@ -23,6 +23,11 @@
 💬 **Open to:** Entry-level software engineering roles or internship opportunities where I can contribute and grow.<br>
 
 
+📫 Reach me at 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-nikam-0266973a1?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikamsakshi908@gmail.com) 
+<br>
+<p></p>
+
 <table>
   <tr>
     <!-- Left Column: Tech Stack -->
@@ -57,6 +62,4 @@
 ![Sakshu's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=radical)
 ![](https://streak-stats.demolab.com/?user=nikamsakshi428&theme=dark&hide_border=false)
 -->
-<br>📫 Reach me at 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-nikam-0266973a1?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikamsakshi908@gmail.com) 
-
+<br>
