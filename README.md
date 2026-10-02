@@ -42,9 +42,10 @@
 🌱 **Learning:** Expanding my knowledge in **Cloud Computing** and **Spring Microservices**.<br>
 💬 **Open to:** Entry-level software engineering roles or internship opportunities where I can contribute and grow.<br>
 
-📫 Reach me at: nikamsakshi908@gmail.com <br>
-🔗 LinkedIn: https://www.linkedin.com/in/sakshi-nikam-0266973a1?utm_source=share_via&utm_content=profile&utm_medium=member_android <br>
+📫 Reach me at:🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-nikam-0266973a1?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikamsakshi908@gmail.com) 
 
 
 📊 **GitHub Stats**  
 ![Sakshu's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=radical)<br>
+![](https://streak-stats.demolab.com/?user=nikamsakshi428&theme=dark&hide_border=false)<br>
