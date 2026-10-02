@@ -47,4 +47,4 @@
 
 
 📊 **GitHub Stats**  
-![Sakshu's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=radical)<br>
+![Sakshu's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=radical&fork=true)<br>
