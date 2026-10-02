@@ -42,16 +42,22 @@
 🌱 **Learning:** Expanding my knowledge in **Cloud Computing** and **Spring Microservices**.<br>
 💬 **Open to:** Entry-level software engineering roles or internship opportunities where I can contribute and grow.<br>
 
-<!--📊 **GitHub Stats**  
-<p align="center">
-![Sakshu's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=radical)
-![](https://streak-stats.demolab.com/?user=nikamsakshi428&theme=dark&hide_border=false)
-</p>
--->
-📊 **GitHub Stats**  
-![Sakshu's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=radical)
-![](https://streak-stats.demolab.com/?user=nikamsakshi428&theme=dark&hide_border=false)
+<br>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=radical" alt="Sakshus GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=nikamsakshi428&theme=dark&hide_border=false" alt="Sakshu's GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-<br>📫 Reach me at:🌐 Socials:
+<!--📊 **GitHub Stats**  
+![Sakshu's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=radical)
+![](https://streak-stats.demolab.com/?user=nikamsakshi428&theme=dark&hide_border=false)
+-->
+<br>📫 Reach me at 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-nikam-0266973a1?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikamsakshi908@gmail.com) 
 
