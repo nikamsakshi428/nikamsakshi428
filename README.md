@@ -34,6 +34,12 @@
 * 🎯 **Daily Goal:** Solving at least 1-2 problems on LeetCode / HackerRank.
 * ⚡ **Fun Fact:** I enjoy breaking down complex algorithms into simple, visual block diagrams.
 
+
+### 📫 Reach me at Socials: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-nikam-0266973a1?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikamsakshi908@gmail.com) 
+
+<br>
+
 <table>
   <tr>
     <!-- Left Column: Tech Stack -->
@@ -65,6 +71,4 @@
 </table>      <h3>GitHub Stats</h3>
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nikamsakshi428&layout=compact&theme=radical" alt="Top Languages" />
 
-📫 Reach me at 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-nikam-0266973a1?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikamsakshi908@gmail.com) 
-<br>
+
