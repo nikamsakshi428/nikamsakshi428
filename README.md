@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Sakshii..</h1>
 <p align="center">
-<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fnikamsakshi428&label=View+Counter&icon=heart-half&color=%23198754&message=&style=for-the-badge&tz=UTC&fork=true"></p><br>
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fnikamsakshi428&label=View+Counter&icon=heart-half&color=%23d63384&message=&style=for-the-badge&tz=UTC&fork=true"></p><br>
 
 ### 🚀 Full Stack Java Developer | BCS Graduate | MCA Student
 
@@ -14,10 +14,10 @@
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=radical" alt="Sakshus GitHub Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=omni" alt="Sakshus GitHub Stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=nikamsakshi428&theme=dark&hide_border=false" alt="Sakshu's GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=nikamsakshi428&theme=omni&hide_border=false" alt="Sakshu's GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -69,6 +69,6 @@
     <!-- Right Column: GitHub Stats -->
    
 </table>      <h3>GitHub Stats</h3>
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nikamsakshi428&layout=compact&theme=radical" alt="Top Languages" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nikamsakshi428&layout=compact&theme=omni" alt="Top Languages" />
 
 
