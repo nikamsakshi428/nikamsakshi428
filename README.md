@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Sakshii..</h1>
+<h1 align="center">Hii 👋 I'm Sakshii..</h1>
 <p align="center">
 <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fnikamsakshi428&label=View+Counter&icon=heart-half&color=%23d63384&message=&style=for-the-badge&tz=UTC&fork=true"></p><br>
 
@@ -34,18 +34,12 @@
 * 🎯 **Daily Goal:** Solving at least 1-2 problems on LeetCode / HackerRank.
 * ⚡ **Fun Fact:** I enjoy breaking down complex algorithms into simple, visual block diagrams.
 
-
-### 📫 Reach me at Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-nikam-0266973a1?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikamsakshi908@gmail.com) 
-
-<br>
-
-<table>
+<table width="100px">
   <tr>
     <!-- Left Column: Tech Stack -->
-    <td valign="top" width="100%">
+    <td valign="top" width="50%">
       <h2>🛠️ Tech Stack</h2>
-      <p><b>Languages & Frameworks:</b></p>
+      <p><b>Languages & Frameworks & Tools:</b></p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
@@ -54,21 +48,21 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="angular" width="40"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/>
-      <!--<p><b>Tools & Platforms:</b></p>-->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="Pycharm" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40"/>
     </td>
     <!-- Right Column: GitHub Stats -->
-   
-</table>      <h3>GitHub Stats</h3>
+    <td valign="top" width="50%" align="center">
+      <h2>📊 GitHub Stats</h2>
+      <br/>
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nikamsakshi428&layout=compact&theme=omni" alt="Top Languages" />
-
-
+    </td>
+  </tr>
+</table>
