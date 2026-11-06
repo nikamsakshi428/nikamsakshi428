@@ -14,7 +14,7 @@
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=omni" alt="Sakshus GitHub Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=nikamsakshi428&show_icons=true&theme=omni&include_all_commits=true" alt="Sakshus GitHub Stats" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com/?user=nikamsakshi428&theme=omni&hide_border=false" alt="Sakshu's GitHub Streak" />
